@@ -16,7 +16,7 @@
   - [Setup instructions](#setup-instructions)
   - [Link To The AI Transcript](#link-to-the-ai-transcript)
   - [What I'd improve with more time](#what-id-improve-with-more-time)
-  - [Tools I used] (#Tools-I-used)
+  - [Tools I used](#tools-i-used)
 
 ## Part 1: Bug Fix: FAQ
 
