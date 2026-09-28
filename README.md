@@ -240,7 +240,7 @@ it into the real site, I:
 
 # Setup instructions
 
-None. It's plain HTML/CSS/JS embedded in the existing single file, open it in a browser and it works with no build step, server, or dependencies. I deployed the code at https://maisharchy.github.io/breezy-intern-test (live demo) and the code is at https://github.com/maisharchy/maisharchy.github.io-breezy-intern-test this github repository.
+None. It's plain HTML/CSS/JS embedded in the existing single file, open it in a browser and it works with no build step, server, or dependencies. I deployed the code at https://breezy_intern_test.github.io/ and the code is at https://github.com/maisharchy/breezy_intern_test.github.io this github repository.
 
 # Link To The AI Transcript
 
@@ -262,6 +262,6 @@ https://claude.ai/share/72d40231-5d09-4380-b901-7c888059003f
   small script that runs all `3^5` possible answer combinations and checks
   that no combination produces an undefined or crashing result.
 # Tools I used
-I used google, and online resources to read any programming syntax, how a praticular functions behave etc. to understand better how I can implement or fix bugs. I used google inspect(Devtool) to see the problem and how the code behaves. I used GoodNotes to write my initial though process, I used claude for implemnting my idea based on my pseudocode and VS Code to write code myself. I deployed the code at https://maisharchy.github.io/breezy-intern-test and the code is at https://github.com/maisharchy/maisharchy.github.io-breezy-intern-test this github repository.
+I used google, and online resources to read any programming syntax, how a praticular functions behave etc. to understand better how I can implement or fix bugs. I used google inspect(Devtool) to see the problem and how the code behaves. I used GoodNotes to write my initial though process, I used claude for implemnting my idea based on my pseudocode and VS Code to write code myself. I deployed the code at https://breezy_intern_test.github.io/ and the code is at https://github.com/maisharchy/breezy_intern_test.github.io this github repository.
 
 Overall, I completed all the tasks in around 4 hours to comply by the recommended timeline.
